@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "477084001615",
+    "firebase_url": "https://react-d3fd5-default-rtdb.firebaseio.com",
+    "project_id": "react-d3fd5",
+    "storage_bucket": "react-d3fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477084001615:android:d6d6917ba0eabf8cc5d13a",
+        "android_client_info": {
+          "package_name": "com.example.event_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhL7svcSs5Xk1zJrb_Sd6_QKtl-P7LuJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
